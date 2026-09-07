@@ -6,9 +6,18 @@ leetcode solutions which i solved.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
