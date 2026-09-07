@@ -1,44 +1,49 @@
 class Solution {
+
+    static void swap(int[] arr, int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
     public void nextPermutation(int[] arr) {
-        int pivot = -1;
+
         int n = arr.length;
-        for(int i=n-2; i>=0; i--){
-            if(arr[i]<arr[i+1]){
+        int pivot = -1;
+
+        // Step 1: Find pivot
+        for(int i = n - 2; i >= 0; i--){
+            if(arr[i] < arr[i + 1]){
                 pivot = i;
                 break;
             }
         }
 
+        // Step 2: If no pivot, reverse whole array
         if(pivot == -1){
-            int i=0 , j =n-1;
-            while(i<j){
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+            int i = 0, j = n - 1;
+            while(i < j){
+                swap(arr, i, j);
                 i++;
                 j--;
             }
             return;
         }
 
-        for(int i =n-1; i>=0; i--){
+        // Step 3: Swap with next greater element
+        for(int i = n - 1; i > pivot; i--){
             if(arr[i] > arr[pivot]){
-                int temp = arr[pivot];
-                arr[pivot] = arr[i];
-                arr[i] = temp;
+                swap(arr, pivot, i);
                 break;
             }
         }
 
-        int ii=pivot+1;
-        int jj = n-1;
-        while(ii<jj){
-            int temp = arr[ii];
-            arr[ii] = arr[jj];
-            arr[jj] = temp;
-            ii++;
-            jj--;
+        // Step 4: Reverse suffix
+        int i = pivot + 1, j = n - 1;
+        while(i < j){
+            swap(arr, i, j);
+            i++;
+            j--;
         }
-
     }
 }
