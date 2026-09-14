@@ -14,6 +14,7 @@ leetcode solutions which i solved.
 | [0031-next-permutation](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ leetcode solutions which i solved.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Ternary Search
@@ -108,4 +110,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
