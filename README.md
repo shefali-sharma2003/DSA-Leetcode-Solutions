@@ -17,6 +17,7 @@ leetcode solutions which i solved.
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Ternary Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +77,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
