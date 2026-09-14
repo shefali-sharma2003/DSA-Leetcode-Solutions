@@ -13,6 +13,7 @@ leetcode solutions which i solved.
 | [0027-remove-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -30,6 +31,7 @@ leetcode solutions which i solved.
 | [0018-4sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -97,6 +99,7 @@ leetcode solutions which i solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
@@ -118,4 +121,12 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
