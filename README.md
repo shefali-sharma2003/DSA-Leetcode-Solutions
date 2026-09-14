@@ -30,6 +30,7 @@ leetcode solutions which i solved.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -64,6 +65,7 @@ leetcode solutions which i solved.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -87,4 +89,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
