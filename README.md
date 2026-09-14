@@ -14,6 +14,7 @@ leetcode solutions which i solved.
 | [0031-next-permutation](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ leetcode solutions which i solved.
 | ------- |
 | [0015-3sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,20 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
