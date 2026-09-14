@@ -40,6 +40,7 @@ leetcode solutions which i solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +55,7 @@ leetcode solutions which i solved.
 | [0015-3sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ leetcode solutions which i solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
