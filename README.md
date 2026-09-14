@@ -43,6 +43,7 @@ leetcode solutions which i solved.
 | [0125-valid-palindrome](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -128,10 +129,12 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
