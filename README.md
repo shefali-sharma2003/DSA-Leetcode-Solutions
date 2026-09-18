@@ -22,6 +22,7 @@ leetcode solutions which i solved.
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,12 +67,14 @@ leetcode solutions which i solved.
 | [0018-4sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -92,6 +95,7 @@ leetcode solutions which i solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -111,6 +115,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -124,6 +129,7 @@ leetcode solutions which i solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
