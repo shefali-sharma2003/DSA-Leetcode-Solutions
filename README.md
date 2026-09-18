@@ -20,6 +20,7 @@ leetcode solutions which i solved.
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@ leetcode solutions which i solved.
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -108,6 +110,7 @@ leetcode solutions which i solved.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
