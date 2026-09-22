@@ -31,6 +31,7 @@ leetcode solutions which i solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0016-3sum-closest) |
@@ -49,6 +50,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -125,6 +127,7 @@ leetcode solutions which i solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Sliding Window
@@ -159,4 +162,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
