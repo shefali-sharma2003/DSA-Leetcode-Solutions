@@ -48,6 +48,7 @@ leetcode solutions which i solved.
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -71,6 +72,7 @@ leetcode solutions which i solved.
 | [0383-ransom-note](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -159,6 +161,7 @@ leetcode solutions which i solved.
 | [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
