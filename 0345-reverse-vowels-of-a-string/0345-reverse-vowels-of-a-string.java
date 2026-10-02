@@ -15,18 +15,12 @@ class Solution {
         int j = ch.length - 1;
 
         while (i < j) {
-
-            // i is not a vowel → move i
             if (!isVowel(ch[i])) {
                 i++;
             }
-
-            // j is not a vowel → move j
             else if (!isVowel(ch[j])) {
                 j--;
             }
-
-            // both are vowels → swap
             else {
                 char temp = ch[i];
                 ch[i] = ch[j];
