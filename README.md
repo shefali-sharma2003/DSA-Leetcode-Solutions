@@ -47,6 +47,7 @@ leetcode solutions which i solved.
 | [0283-move-zeroes](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -66,6 +67,7 @@ leetcode solutions which i solved.
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
