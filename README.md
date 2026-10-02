@@ -69,6 +69,7 @@ leetcode solutions which i solved.
 | [0344-reverse-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -120,6 +121,7 @@ leetcode solutions which i solved.
 | [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ leetcode solutions which i solved.
 | ------- |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -207,4 +210,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
