@@ -17,6 +17,7 @@ leetcode solutions which i solved.
 | [0031-next-permutation](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -113,6 +114,7 @@ leetcode solutions which i solved.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -157,6 +159,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
