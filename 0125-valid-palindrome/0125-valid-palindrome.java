@@ -3,7 +3,6 @@ class Solution {
 
         StringBuilder str = new StringBuilder();
 
-        // Remove special characters and convert to lowercase
         for(int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
