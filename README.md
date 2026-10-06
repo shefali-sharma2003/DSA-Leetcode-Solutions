@@ -24,6 +24,7 @@ leetcode solutions which i solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -236,4 +237,8 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
