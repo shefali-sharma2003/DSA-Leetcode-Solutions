@@ -20,6 +20,7 @@ leetcode solutions which i solved.
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -163,6 +164,7 @@ leetcode solutions which i solved.
 | [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
