@@ -30,6 +30,7 @@ leetcode solutions which i solved.
 | [0283-move-zeroes](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -241,4 +242,5 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
