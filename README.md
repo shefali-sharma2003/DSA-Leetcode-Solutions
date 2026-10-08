@@ -66,6 +66,7 @@ leetcode solutions which i solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -137,6 +138,7 @@ leetcode solutions which i solved.
 | ------- |
 | [0001-two-sum](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -168,6 +170,7 @@ leetcode solutions which i solved.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0067-add-binary) |
