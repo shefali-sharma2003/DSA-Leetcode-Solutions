@@ -86,6 +86,7 @@ leetcode solutions which i solved.
 | [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -217,6 +218,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -260,4 +262,8 @@ leetcode solutions which i solved.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
