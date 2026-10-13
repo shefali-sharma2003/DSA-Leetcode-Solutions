@@ -37,6 +37,7 @@ leetcode solutions which i solved.
 | [0287-find-the-duplicate-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -160,6 +161,7 @@ leetcode solutions which i solved.
 | [0383-ransom-note](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -271,6 +273,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Recursion
 |  |
