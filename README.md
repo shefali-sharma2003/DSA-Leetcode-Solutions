@@ -28,6 +28,7 @@ leetcode solutions which i solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ leetcode solutions which i solved.
 | [0056-merge-intervals](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -144,6 +146,7 @@ leetcode solutions which i solved.
 | [0049-group-anagrams](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0290-word-pattern) |
