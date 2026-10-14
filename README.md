@@ -97,6 +97,7 @@ leetcode solutions which i solved.
 | [0394-decode-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -251,6 +252,7 @@ leetcode solutions which i solved.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shefali-sharma2003/DSA-Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
