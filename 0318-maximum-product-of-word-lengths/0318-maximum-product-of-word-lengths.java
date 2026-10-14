@@ -1,32 +1,23 @@
-
 class Solution {
     public int maxProduct(String[] words) {
-        int max = 0;
-
-        for (int i = 0; i < words.length; i++) {
-            boolean[] letters = new boolean[26];
-
-            for (char ch : words[i].toCharArray()) {
-                letters[ch - 'a'] = true;
+        int[] arr = new int[words.length];
+        for(int i=0;i<words.length;i++){
+            String str = words[i];
+            int a = 0;
+            for(int j=0;j<str.length();j++){
+                int val = str.charAt(j)-'a';
+                a|=(1<<val);
             }
-
-            for (int j = i + 1; j < words.length; j++) {
-                boolean common = false;
-
-                for (char ch : words[j].toCharArray()) {
-                    if (letters[ch - 'a']) {
-                        common = true;
-                        break;
-                    }
-                }
-
-                if (!common) {
-                    int product = words[i].length() * words[j].length();
-                    max = Math.max(max, product);
+            arr[i]=a;
+        }
+        int ans=0;;
+        for(int i=0;i<arr.length;i++){
+            for(int j=i+1;j<arr.length;j++){
+                if((arr[i]&arr[j])==0){
+                    ans=Math.max(ans,words[i].length()*words[j].length());
                 }
             }
         }
-
-        return max;
+        return ans;
     }
 }
